@@ -1,0 +1,3 @@
+C:/Users/docto/Downloads/CS_235/HomeworkHeap/cmake-build-debug/CMakeFiles/HomeworkHeap.dir
+C:/Users/docto/Downloads/CS_235/HomeworkHeap/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/docto/Downloads/CS_235/HomeworkHeap/cmake-build-debug/CMakeFiles/rebuild_cache.dir

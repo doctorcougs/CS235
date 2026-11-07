@@ -1,0 +1,32 @@
+{
+  "tests": [
+    {
+      "name": "longest_line.test1.stdout",
+      "output": "Observed (left) == Expected (right)\nsix words are on this line                            | six words are on this line                           \n                                                      |                                                      ",
+      "score": 25.0,
+      "max_score": 25.0,
+      "visibility": "visible"
+    },
+    {
+      "name": "longest_line.test2.stdout",
+      "output": "Observed (left) == Expected (right)\nEthernet Windows LAN kernel GUI ML firewall SQL IDE virus | Ethernet Windows LAN kernel GUI ML firewall SQL IDE virus\n                                                          |                                                          ",
+      "score": 25.0,
+      "max_score": 25.0,
+      "visibility": "visible"
+    },
+    {
+      "name": "reformat.test1.reformat_test1.output.txt",
+      "output": "Observed (left) == Expected (right)\nSmith, Alice: 37.5         | Smith, Alice: 37.5        \nJohnson, Bob: 102          | Johnson, Bob: 102         \nBrown, Charlie: 55.8       | Brown, Charlie: 55.8      \nLee, David: 85.8           | Lee, David: 85.8          \nWilliams, Elizabeth: 135   | Williams, Elizabeth: 135  \nMiller, Frank: 70          | Miller, Frank: 70         \nDavis, Grace: 44           | Davis, Grace: 44          \nWilson, Henry: 161.5       | Wilson, Henry: 161.5      \nMartinez, Isabella: 104    | Martinez, Isabella: 104   \nTaylor, James: 31.5        | Taylor, James: 31.5       \nThompson, Katherine: 63.65 | Thompson, Katherine: 63.65\nRobinson, Liam: 123.2      | Robinson, Liam: 123.2     \nGarcia, Mia: 75.6          | Garcia, Mia: 75.6         \nHernandez, Noah: 49.3      | Hernandez, Noah: 49.3     \nThomas, Olivia: 102.5      | Thomas, Olivia: 102.5     ",
+      "score": 25.0,
+      "max_score": 25.0,
+      "visibility": "visible"
+    },
+    {
+      "name": "reformat.test2.reformat_test2.output.txt",
+      "output": "Observed (left) == Expected (right)\nNguyen, Peter: 83.6      | Nguyen, Peter: 83.6     \nDavis, Rachel: 109.2     | Davis, Rachel: 109.2    \nWilson, Samantha: 55.8   | Wilson, Samantha: 55.8  \nMitchell, Thomas: 71     | Mitchell, Thomas: 71    \nPatel, Uma: 48.45        | Patel, Uma: 48.45       \nLee, Vivian: 145.6       | Lee, Vivian: 145.6      \nGarcia, William: 94.8    | Garcia, William: 94.8   \nHernandez, Xavier: 123.2 | Hernandez, Xavier: 123.2\nKim, Yvonne: 65.55       | Kim, Yvonne: 65.55      \nBaker, Zachary: 56.7     | Baker, Zachary: 56.7    ",
+      "score": 25.0,
+      "max_score": 25.0,
+      "visibility": "visible"
+    }
+  ]
+}
